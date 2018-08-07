@@ -10,7 +10,7 @@ public class BubbleSort {
   public static void main(String[] args) {
     print(list);
     bubbleSort(list);
-    print(list);
+//    print(list);
   }
 
   public static void print(int[] listToSort) {
@@ -35,6 +35,7 @@ public class BubbleSort {
           swapped = true;
         }
       }
+      print(listToSort);
       if (!swapped) {
         break;
       }
