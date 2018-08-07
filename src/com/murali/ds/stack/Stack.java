@@ -9,6 +9,7 @@ public class Stack<T> {
 
 
   public static void main(String[] args) throws StackOverflowException, StackUnderflowException {
+
     MAX_SIZE = 4;
     Stack<Integer> stack = new Stack<>();
 
@@ -97,6 +98,11 @@ public class Stack<T> {
     private T data;
     private Element next;
 
+    public Element(T data, Element next) {
+      this.data = data;
+      this.next = next;
+    }
+
     public T getData() {
       return data;
     }
@@ -110,11 +116,6 @@ public class Stack<T> {
     }
 
     public void setNext(Element next) {
-      this.next = next;
-    }
-
-    public Element(T data, Element next) {
-      this.data = data;
       this.next = next;
     }
   }
