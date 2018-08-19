@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdb3e8c-ab86-4680-abbe-93f7d7856b78" name="Default Changelist" comment="Selection sorting..">
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/Staircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/MaxAndMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,23 +67,23 @@
     <session id="611659702">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="54" />
+          <entry key="java" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="54" />
+          <entry key="JAVA" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1343" />
+          <entry key="java" value="1639" />
           <entry key="txt" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1343" />
+          <entry key="JAVA" value="1639" />
           <entry key="PLAIN_TEXT" value="63" />
         </counts>
       </usages-collector>
@@ -109,11 +109,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/murali/problems/Staircase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="299">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/murali/problems/MaxAndMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/com/murali/ds/traversal/BinaryTreeInOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/com/murali/ds/traversal/Evaluate_BoolExp.java" />
         <option value="$PROJECT_DIR$/src/com/murali/problems/Staircase.java" />
+        <option value="$PROJECT_DIR$/src/com/murali/problems/MaxAndMin.java" />
       </list>
     </option>
   </component>
@@ -226,7 +239,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534603014724" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534652682980" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -366,21 +379,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Staircase">
-    <configuration name="BinaryTreeBreadthFirstTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.murali.ds.traversal.BinaryTreeBreadthFirstTraversal" />
-      <module name="ds" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.murali.ds.traversal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxAndMin">
     <configuration name="BinaryTreeInOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.murali.ds.traversal.BinaryTreeInOrderTraversal" />
       <module name="ds" />
@@ -423,6 +422,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.murali.problems.MaxAndMin" />
+      <module name="ds" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.murali.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.murali.problems.Staircase" />
       <module name="ds" />
@@ -458,19 +471,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTreeBreadthFirstTraversal" />
       <item itemvalue="Application.BinaryTreeInOrderTraversal" />
       <item itemvalue="Application.BinaryTreePostOrderTraversal" />
       <item itemvalue="Application.BinaryTreePreOrderTraversal" />
       <item itemvalue="Application.Staircase" />
+      <item itemvalue="Application.MaxAndMin" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxAndMin" />
         <item itemvalue="Application.Staircase" />
         <item itemvalue="Application.BinaryTreePreOrderTraversal" />
         <item itemvalue="Application.BinaryTreePostOrderTraversal" />
         <item itemvalue="Application.BinaryTreeInOrderTraversal" />
-        <item itemvalue="Application.BinaryTreeBreadthFirstTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -488,12 +501,12 @@
       <workItem from="1534179161229" duration="11000" />
       <workItem from="1534348388641" duration="1671000" />
       <workItem from="1534354791722" duration="1000" />
-      <workItem from="1534437111586" duration="4196000" />
+      <workItem from="1534437111586" duration="7411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37394000" />
+    <option name="totallyTimeSpent" value="40609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1415" height="877" extended-state="0" />
@@ -733,8 +746,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/murali/problems/Staircase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="299">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/murali/problems/MaxAndMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
