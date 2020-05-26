@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdb3e8c-ab86-4680-abbe-93f7d7856b78" name="Default Changelist" comment="Selection sorting..">
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/SearchRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/SumRotatedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/murali/problems/SumRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/murali/problems/SumRotatedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,7 @@
       <recent name="D:\Sites\ds\src\com\murali\ds\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchRotatedArray">
+  <component name="RunManager" selected="Application.SumRotatedArray">
     <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.murali.problems.ArrayRotation" />
       <module name="ds" />
@@ -124,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.murali.problems.Main" />
+    <configuration name="SearchRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.murali.problems.SearchRotatedArray" />
       <module name="ds" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -138,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.murali.problems.SearchRotatedArray" />
+    <configuration name="SumRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.murali.problems.SumRotatedArray" />
       <module name="ds" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -175,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArraysLeftRotation" />
       <item itemvalue="Application.ArrayRotation" />
       <item itemvalue="Application.GCD" />
       <item itemvalue="Application.SearchRotatedArray" />
+      <item itemvalue="Application.SumRotatedArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumRotatedArray" />
         <item itemvalue="Application.SearchRotatedArray" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.ArrayRotation" />
         <item itemvalue="Application.ArraysLeftRotation" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +203,7 @@
       <workItem from="1534348388641" duration="1671000" />
       <workItem from="1534354791722" duration="1000" />
       <workItem from="1534437111586" duration="11665000" />
-      <workItem from="1589491696049" duration="14857000" />
+      <workItem from="1589491696049" duration="15634000" />
     </task>
     <servers />
   </component>
@@ -233,22 +230,22 @@
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
     <state x="592" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/29.23.1651.1027@29.23.1651.1027" timestamp="1589493568536" />
-    <state width="1609" height="290" key="GridCell.Tab.0.bottom" timestamp="1590347753931">
+    <state width="1609" height="290" key="GridCell.Tab.0.bottom" timestamp="1590526284161">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="290" key="GridCell.Tab.0.bottom/29.23.1651.1027@29.23.1651.1027" timestamp="1590347753931" />
-    <state width="1609" height="290" key="GridCell.Tab.0.center" timestamp="1590347753930">
+    <state width="1609" height="290" key="GridCell.Tab.0.bottom/29.23.1651.1027@29.23.1651.1027" timestamp="1590526284161" />
+    <state width="1609" height="290" key="GridCell.Tab.0.center" timestamp="1590526284160">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="290" key="GridCell.Tab.0.center/29.23.1651.1027@29.23.1651.1027" timestamp="1590347753930" />
-    <state width="1609" height="290" key="GridCell.Tab.0.left" timestamp="1590347753929">
+    <state width="1609" height="290" key="GridCell.Tab.0.center/29.23.1651.1027@29.23.1651.1027" timestamp="1590526284160" />
+    <state width="1609" height="290" key="GridCell.Tab.0.left" timestamp="1590526284159">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="290" key="GridCell.Tab.0.left/29.23.1651.1027@29.23.1651.1027" timestamp="1590347753929" />
-    <state width="1609" height="290" key="GridCell.Tab.0.right" timestamp="1590347753930">
+    <state width="1609" height="290" key="GridCell.Tab.0.left/29.23.1651.1027@29.23.1651.1027" timestamp="1590526284159" />
+    <state width="1609" height="290" key="GridCell.Tab.0.right" timestamp="1590526284160">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="290" key="GridCell.Tab.0.right/29.23.1651.1027@29.23.1651.1027" timestamp="1590347753930" />
+    <state width="1609" height="290" key="GridCell.Tab.0.right/29.23.1651.1027@29.23.1651.1027" timestamp="1590526284160" />
     <state width="1609" height="335" key="GridCell.Tab.1.bottom" timestamp="1590343496387">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
