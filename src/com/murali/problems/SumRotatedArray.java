@@ -2,7 +2,7 @@ package com.murali.problems;
 
 public class SumRotatedArray {
   public static void main(String[] args) {
-    int arr[] = {11, 15, 1, 8, 9, 10};
+    int arr[] = {11, 15, 6, 8, 9, 10};
     int x = 16;
     System.out.println(pairInSortedRotated(arr, arr.length, x));
   }
@@ -14,6 +14,8 @@ public class SumRotatedArray {
     }
     int l = (i + 1) % n;
     int r = i;
+    System.out.format("%d,%d,%d", l, r, n);
+    System.out.println('\n');
     while (l != r) {
       if(arr[l] + arr[r] == x) {
         System.out.println(arr[l]);
