@@ -2,7 +2,7 @@ package com.murali.problems.arrays;
 
 public class CountArrayRotations {
   public static void main(String[] args) {
-    int arr[] = {15, 18, 2, 3, 6, 12};
+    int arr[] = {15, 18, 19, 25, 28, 2, 3, 6, 12};
     int n = arr.length;
     int low = 0; int high = n - 1;
     System.out.println(binarySearch(arr, low, high));
