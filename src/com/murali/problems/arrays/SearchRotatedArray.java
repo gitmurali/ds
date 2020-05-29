@@ -1,4 +1,4 @@
-package com.murali.problems;
+package com.murali.problems.arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.murali.problems;
+package com.murali.problems.arrays;
 
 public class SumRotatedArray {
   public static void main(String[] args) {
