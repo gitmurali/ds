@@ -1,10 +1,31 @@
 package com.murali.problems.arrays;
 
+import java.util.Arrays;
+import java.util.Scanner;
+import java.io.*;
+
 public class FindMinInSortedRotatedArray {
+  /*
+    2
+    5
+    4 5 1 2 3
+    7
+    10 20 30 40 50 5 7
+   */
+  private static final Scanner scanner = new Scanner(System.in);
+
   public static void main(String[] args) {
-    int arr[] = {53, 61, 72, 12, 32, 43, 44};
-    int n = arr.length;
-    System.out.println(findMin(arr, 0, n - 1));
+    int t= scanner.nextInt();
+    while(t > 0) {
+      int n = scanner.nextInt();
+      int[] a = new int[n];
+      for(int i=0;i<n;i++) {
+        a[i] = scanner.nextInt();
+      }
+      int min = findMin(a, 0, n - 1);
+      System.out.println(min);
+      t--;
+    }
   }
 
   static int findMin(int arr[], int low, int high) {
