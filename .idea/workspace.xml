@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbdb3e8c-ab86-4680-abbe-93f7d7856b78" name="Default Changelist" comment="Selection sorting..">
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/arrays/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bbdb3e8c-ab86-4680-abbe-93f7d7856b78" name="Default Changelist" comment="Selection sorting.." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +203,7 @@
       <workItem from="1589491696049" duration="16867000" />
       <workItem from="1590608321328" duration="6431000" />
       <workItem from="1590859409307" duration="9934000" />
-      <workItem from="1591307212367" duration="9222000" />
+      <workItem from="1591307212367" duration="9391000" />
     </task>
     <servers />
   </component>
@@ -233,22 +230,22 @@
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
     <state x="592" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/29.23.1651.1027@29.23.1651.1027" timestamp="1589493568536" />
-    <state width="1609" height="344" key="GridCell.Tab.0.bottom" timestamp="1591550203811">
+    <state width="1609" height="344" key="GridCell.Tab.0.bottom" timestamp="1591554957806">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="344" key="GridCell.Tab.0.bottom/29.23.1651.1027@29.23.1651.1027" timestamp="1591550203811" />
-    <state width="1609" height="344" key="GridCell.Tab.0.center" timestamp="1591550203811">
+    <state width="1609" height="344" key="GridCell.Tab.0.bottom/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957806" />
+    <state width="1609" height="344" key="GridCell.Tab.0.center" timestamp="1591554957806">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="344" key="GridCell.Tab.0.center/29.23.1651.1027@29.23.1651.1027" timestamp="1591550203811" />
-    <state width="1609" height="344" key="GridCell.Tab.0.left" timestamp="1591550203810">
+    <state width="1609" height="344" key="GridCell.Tab.0.center/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957806" />
+    <state width="1609" height="344" key="GridCell.Tab.0.left" timestamp="1591554957805">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="344" key="GridCell.Tab.0.left/29.23.1651.1027@29.23.1651.1027" timestamp="1591550203810" />
-    <state width="1609" height="344" key="GridCell.Tab.0.right" timestamp="1591550203811">
+    <state width="1609" height="344" key="GridCell.Tab.0.left/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957805" />
+    <state width="1609" height="344" key="GridCell.Tab.0.right" timestamp="1591554957806">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
-    <state width="1609" height="344" key="GridCell.Tab.0.right/29.23.1651.1027@29.23.1651.1027" timestamp="1591550203811" />
+    <state width="1609" height="344" key="GridCell.Tab.0.right/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957806" />
     <state width="1609" height="335" key="GridCell.Tab.1.bottom" timestamp="1590529020550">
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
