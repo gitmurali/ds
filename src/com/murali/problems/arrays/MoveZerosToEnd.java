@@ -1,15 +1,24 @@
 package com.murali.problems.arrays;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class MoveZerosToEnd {
+  private static final Scanner scanner = new Scanner(System.in);
   public static void main(String[] args) {
-    int arr[] = {1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0, 9};
-    int n = arr.length;
-    pushZerosToEnd(arr, n);
-    System.out.println("Array after pushing zeros to the back: ");
-    for (int i=0; i<n; i++)
-      System.out.print(arr[i]+" ");
+    int t= scanner.nextInt();
+    while(t-- > 0) {
+      int n = scanner.nextInt();
+      int[] arr = new int[n];
+      for(int i=0;i<n;i++) {
+        arr[i] = scanner.nextInt();
+      }
+      int k = arr.length;
+      pushZerosToEnd(arr, k);
+      for (int i=0; i<n; i++)
+        System.out.print(arr[i]+" ");
+      System.out.println();
+    }
   }
 
   private static void pushZerosToEnd(int[] arr, int n) {
