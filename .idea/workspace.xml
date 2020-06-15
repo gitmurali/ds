@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdb3e8c-ab86-4680-abbe-93f7d7856b78" name="Default Changelist" comment="Selection sorting..">
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/arrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <recent name="D:\Sites\ds\src\com\murali\ds\queue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromSortedArray">
     <configuration name="MoveZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.murali.problems.arrays.MoveZerosToEnd" />
       <module name="ds" />
@@ -121,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.murali.problems.arrays.ReverseArray" />
+    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.murali.problems.arrays.RemoveDuplicatesFromSortedArray" />
       <module name="ds" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -172,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseArray" />
       <item itemvalue="Application.RearrangePositiveAndNegative" />
       <item itemvalue="Application.MoveZerosToEnd" />
       <item itemvalue="Application.MoveZerosToEnd1" />
       <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.MoveZerosToEnd1" />
         <item itemvalue="Application.MoveZerosToEnd" />
         <item itemvalue="Application.RearrangePositiveAndNegative" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +208,7 @@
       <workItem from="1590859409307" duration="9934000" />
       <workItem from="1591307212367" duration="9883000" />
       <workItem from="1592128498192" duration="856000" />
-      <workItem from="1592129688197" duration="9870000" />
+      <workItem from="1592129688197" duration="13240000" />
     </task>
     <servers />
   </component>
@@ -235,25 +235,25 @@
       <screen x="29" y="23" width="1651" height="1027" />
     </state>
     <state x="592" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/29.23.1651.1027@29.23.1651.1027" timestamp="1589493568536" />
-    <state width="1638" height="344" key="GridCell.Tab.0.bottom" timestamp="1592253901101">
+    <state width="1638" height="214" key="GridCell.Tab.0.bottom" timestamp="1592257880008">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="344" key="GridCell.Tab.0.bottom/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592253901101" />
+    <state width="1638" height="214" key="GridCell.Tab.0.bottom/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592257880008" />
     <state width="1609" height="344" key="GridCell.Tab.0.bottom/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957806" />
-    <state width="1638" height="344" key="GridCell.Tab.0.center" timestamp="1592253901100">
+    <state width="1638" height="214" key="GridCell.Tab.0.center" timestamp="1592257880007">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="344" key="GridCell.Tab.0.center/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592253901100" />
+    <state width="1638" height="214" key="GridCell.Tab.0.center/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592257880007" />
     <state width="1609" height="344" key="GridCell.Tab.0.center/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957806" />
-    <state width="1638" height="344" key="GridCell.Tab.0.left" timestamp="1592253901099">
+    <state width="1638" height="214" key="GridCell.Tab.0.left" timestamp="1592257880006">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="344" key="GridCell.Tab.0.left/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592253901099" />
+    <state width="1638" height="214" key="GridCell.Tab.0.left/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592257880006" />
     <state width="1609" height="344" key="GridCell.Tab.0.left/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957805" />
-    <state width="1638" height="344" key="GridCell.Tab.0.right" timestamp="1592253901100">
+    <state width="1638" height="214" key="GridCell.Tab.0.right" timestamp="1592257880007">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="344" key="GridCell.Tab.0.right/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592253901100" />
+    <state width="1638" height="214" key="GridCell.Tab.0.right/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592257880007" />
     <state width="1609" height="344" key="GridCell.Tab.0.right/29.23.1651.1027@29.23.1651.1027" timestamp="1591554957806" />
     <state width="1609" height="335" key="GridCell.Tab.1.bottom" timestamp="1590529020550">
       <screen x="29" y="23" width="1651" height="1027" />
@@ -285,9 +285,14 @@
     </state>
     <state x="536" y="275" width="607" height="522" key="find.popup/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592165431474" />
     <state x="556" y="275" width="596" height="522" key="find.popup/29.23.1651.1027@29.23.1651.1027" timestamp="1591005401528" />
-    <state x="519" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1590342519688">
-      <screen x="29" y="23" width="1651" height="1027" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1592257562898">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="505" y="248" key="run.anything.popup/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592257562898" />
+    <state x="499" y="250" width="682" height="676" key="search.everywhere.popup" timestamp="1592257563860">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="499" y="250" width="682" height="676" key="search.everywhere.popup/-1891.23.1891.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1592257563860" />
     <state x="519" y="250" width="670" height="676" key="search.everywhere.popup/29.23.1651.1027@29.23.1651.1027" timestamp="1590342519688" />
   </component>
   <component name="antWorkspaceConfiguration">
