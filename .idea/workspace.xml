@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdb3e8c-ab86-4680-abbe-93f7d7856b78" name="Default Changelist" comment="Selection sorting..">
-      <change afterPath="$PROJECT_DIR$/src/com/murali/problems/arrays/MissingNumberInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/murali/problems/arrays/MissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/murali/problems/arrays/MissingNumberInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +208,7 @@
       <workItem from="1590859409307" duration="9934000" />
       <workItem from="1591307212367" duration="9883000" />
       <workItem from="1592128498192" duration="856000" />
-      <workItem from="1592129688197" duration="22942000" />
+      <workItem from="1592129688197" duration="22995000" />
     </task>
     <servers />
   </component>
